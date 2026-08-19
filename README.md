@@ -2,6 +2,9 @@
 
 A Terraform-based AWS infrastructure project demonstrating declarative resource provisioning, infrastructure lifecycle management, configuration parameterization, remote provisioning, state extraction, and centralized S3-backed Terraform state.
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/62e654fd-9ae8-4c2f-ab53-74e8b779f9d9" />
+
+
 ## Overview
 
 This project demonstrates how Terraform can be used to provision and manage AWS infrastructure through declarative configuration.
