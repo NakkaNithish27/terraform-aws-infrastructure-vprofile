@@ -2,6 +2,9 @@
 
 [← Back to README](../README.md)
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f1463041-8e62-4fa4-af57-5d8f6b675227" />
+
+
 ## 1. Validation Overview
 
 Validation for this project was performed at multiple levels rather than relying on a single successful `terraform apply`.
