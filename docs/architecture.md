@@ -2,6 +2,9 @@
 
 [← Back to README](../README.md)
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c9d646a7-a902-4879-bbfa-5463d3e01ed2" />
+
+
 ## 1. Architecture Overview
 
 This project uses Terraform as the infrastructure control layer for AWS resources.
