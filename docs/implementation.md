@@ -2,6 +2,8 @@
 
 [← Back to README](../README.md)
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f5961b70-01f8-4efe-b9ba-17a2b06ad4cd" />
+
 ## 1. Implementation Overview
 
 This project was implemented progressively, starting with a basic Terraform configuration for AWS infrastructure and then extending it with reusable configuration, lifecycle experimentation, provisioning, state extraction, and remote state.
