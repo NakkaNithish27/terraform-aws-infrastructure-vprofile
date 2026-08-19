@@ -2,6 +2,9 @@
 
 [← Back to README](../README.md)
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/93341c9e-4fa1-4060-b3bc-20d6a85c093d" />
+
+
 ## 1. Purpose
 
 This document defines the boundaries of the current Terraform AWS infrastructure project and identifies the next engineering capabilities that follow from the learning material.
